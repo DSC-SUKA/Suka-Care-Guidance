@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "246456160449",
+    "firebase_url": "https://suka-care.firebaseio.com",
+    "project_id": "suka-care",
+    "storage_bucket": "suka-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246456160449:android:235c37d9b18429d9",
+        "android_client_info": {
+          "package_name": "com.dsc.tesyant.sukacare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246456160449-l5seoltepe1ntavv0i35f1dvu7pjh8b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhFO9kUJZz0ubsR7saZfA24PDqAongNnw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

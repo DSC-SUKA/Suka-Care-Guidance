@@ -1,0 +1,29 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragment.tabRequest">
+
+    <ImageButton
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/kirim_permintaan_buku"
+        android:fitsSystemWindows="false"
+        android:scaleType="fitCenter"
+        android:src="@drawable/btn_record" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_gravity="bottom"
+        android:src="@drawable/bg_layout"
+        android:scaleType="fitEnd"
+        tools:ignore="ContentDescription" />
+
+</LinearLayout>
